@@ -1,0 +1,11 @@
+J:\[ESIG]\[ESIG] [1]\ESIG-1-CAPP\S1\S1Ex1 - Hello World\S1Ex1 - Hello World\bin\Debug\S1Ex1 - Hello World.exe.config
+J:\[ESIG]\[ESIG] [1]\ESIG-1-CAPP\S1\S1Ex1 - Hello World\S1Ex1 - Hello World\bin\Debug\S1Ex1 - Hello World.exe
+J:\[ESIG]\[ESIG] [1]\ESIG-1-CAPP\S1\S1Ex1 - Hello World\S1Ex1 - Hello World\bin\Debug\S1Ex1 - Hello World.pdb
+J:\[ESIG]\[ESIG] [1]\ESIG-1-CAPP\S1\S1Ex1 - Hello World\S1Ex1 - Hello World\bin\Debug\S1Ex1 - Hello World.xml
+J:\[ESIG]\[ESIG] [1]\ESIG-1-CAPP\S1\S1Ex1 - Hello World\S1Ex1 - Hello World\obj\Debug\S1Ex1 - Hello World.vbproj.AssemblyReference.cache
+J:\[ESIG]\[ESIG] [1]\ESIG-1-CAPP\S1\S1Ex1 - Hello World\S1Ex1 - Hello World\obj\Debug\S1Ex1___Hello_World.Resources.resources
+J:\[ESIG]\[ESIG] [1]\ESIG-1-CAPP\S1\S1Ex1 - Hello World\S1Ex1 - Hello World\obj\Debug\S1Ex1 - Hello World.vbproj.GenerateResource.cache
+J:\[ESIG]\[ESIG] [1]\ESIG-1-CAPP\S1\S1Ex1 - Hello World\S1Ex1 - Hello World\obj\Debug\S1Ex1 - Hello World.vbproj.CoreCompileInputs.cache
+J:\[ESIG]\[ESIG] [1]\ESIG-1-CAPP\S1\S1Ex1 - Hello World\S1Ex1 - Hello World\obj\Debug\S1Ex1 - Hello World.exe
+J:\[ESIG]\[ESIG] [1]\ESIG-1-CAPP\S1\S1Ex1 - Hello World\S1Ex1 - Hello World\obj\Debug\S1Ex1 - Hello World.xml
+J:\[ESIG]\[ESIG] [1]\ESIG-1-CAPP\S1\S1Ex1 - Hello World\S1Ex1 - Hello World\obj\Debug\S1Ex1 - Hello World.pdb

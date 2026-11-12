@@ -1,0 +1,11 @@
+J:\[ESIG]\[ESIG] [1]\ESIG-1-CAPP\S1\S1Ex2 - EntreeDeDonnees\S1Ex2 - EntreeDeDonnees\bin\Debug\S1Ex2 - EntreeDeDonnees.exe.config
+J:\[ESIG]\[ESIG] [1]\ESIG-1-CAPP\S1\S1Ex2 - EntreeDeDonnees\S1Ex2 - EntreeDeDonnees\bin\Debug\S1Ex2 - EntreeDeDonnees.exe
+J:\[ESIG]\[ESIG] [1]\ESIG-1-CAPP\S1\S1Ex2 - EntreeDeDonnees\S1Ex2 - EntreeDeDonnees\bin\Debug\S1Ex2 - EntreeDeDonnees.pdb
+J:\[ESIG]\[ESIG] [1]\ESIG-1-CAPP\S1\S1Ex2 - EntreeDeDonnees\S1Ex2 - EntreeDeDonnees\bin\Debug\S1Ex2 - EntreeDeDonnees.xml
+J:\[ESIG]\[ESIG] [1]\ESIG-1-CAPP\S1\S1Ex2 - EntreeDeDonnees\S1Ex2 - EntreeDeDonnees\obj\Debug\S1Ex2 - EntreeDeDonnees.vbproj.AssemblyReference.cache
+J:\[ESIG]\[ESIG] [1]\ESIG-1-CAPP\S1\S1Ex2 - EntreeDeDonnees\S1Ex2 - EntreeDeDonnees\obj\Debug\S1Ex2___EntreeDeDonnees.Resources.resources
+J:\[ESIG]\[ESIG] [1]\ESIG-1-CAPP\S1\S1Ex2 - EntreeDeDonnees\S1Ex2 - EntreeDeDonnees\obj\Debug\S1Ex2 - EntreeDeDonnees.vbproj.GenerateResource.cache
+J:\[ESIG]\[ESIG] [1]\ESIG-1-CAPP\S1\S1Ex2 - EntreeDeDonnees\S1Ex2 - EntreeDeDonnees\obj\Debug\S1Ex2 - EntreeDeDonnees.vbproj.CoreCompileInputs.cache
+J:\[ESIG]\[ESIG] [1]\ESIG-1-CAPP\S1\S1Ex2 - EntreeDeDonnees\S1Ex2 - EntreeDeDonnees\obj\Debug\S1Ex2 - EntreeDeDonnees.exe
+J:\[ESIG]\[ESIG] [1]\ESIG-1-CAPP\S1\S1Ex2 - EntreeDeDonnees\S1Ex2 - EntreeDeDonnees\obj\Debug\S1Ex2 - EntreeDeDonnees.xml
+J:\[ESIG]\[ESIG] [1]\ESIG-1-CAPP\S1\S1Ex2 - EntreeDeDonnees\S1Ex2 - EntreeDeDonnees\obj\Debug\S1Ex2 - EntreeDeDonnees.pdb

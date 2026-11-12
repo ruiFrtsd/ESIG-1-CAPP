@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "J:\\[ESIG]\\[ESIG] [1]\\ESIG-1-CAPP\\S1\\S1Ex5 - PosNegNul\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B22AD4CA-DF79-49A9-A547-FC3BD5642C06}|S1Ex5 - PosNegNul\\S1Ex5 - PosNegNul.vbproj|j:\\[esig]\\[esig] [1]\\esig-1-capp\\s1\\s1ex5 - posnegnul\\s1ex5 - posnegnul\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B22AD4CA-DF79-49A9-A547-FC3BD5642C06}|S1Ex5 - PosNegNul\\S1Ex5 - PosNegNul.vbproj|solutionrelative:s1ex5 - posnegnul\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "J:\\[ESIG]\\[ESIG] [1]\\ESIG-1-CAPP\\S1\\S1Ex5 - PosNegNul\\S1Ex5 - PosNegNul\\Module1.vb",
+              "RelativeDocumentMoniker": "S1Ex5 - PosNegNul\\Module1.vb",
+              "ToolTip": "J:\\[ESIG]\\[ESIG] [1]\\ESIG-1-CAPP\\S1\\S1Ex5 - PosNegNul\\S1Ex5 - PosNegNul\\Module1.vb",
+              "RelativeToolTip": "S1Ex5 - PosNegNul\\Module1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-11-05T14:41:25.725Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

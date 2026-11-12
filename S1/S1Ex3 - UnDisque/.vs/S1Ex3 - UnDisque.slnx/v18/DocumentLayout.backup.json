@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "J:\\[ESIG]\\[ESIG] [1]\\ESIG-1-CAPP\\S1\\S1Ex3 - UnDisque\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE8D7BF-3890-409B-B87D-457736A74B83}|S1Ex3 - UnDisque\\S1Ex3 - UnDisque.vbproj|j:\\[esig]\\[esig] [1]\\esig-1-capp\\s1\\s1ex3 - undisque\\s1ex3 - undisque\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4FE8D7BF-3890-409B-B87D-457736A74B83}|S1Ex3 - UnDisque\\S1Ex3 - UnDisque.vbproj|solutionrelative:s1ex3 - undisque\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "J:\\[ESIG]\\[ESIG] [1]\\ESIG-1-CAPP\\S1\\S1Ex3 - UnDisque\\S1Ex3 - UnDisque\\Module1.vb",
+              "RelativeDocumentMoniker": "S1Ex3 - UnDisque\\Module1.vb",
+              "ToolTip": "J:\\[ESIG]\\[ESIG] [1]\\ESIG-1-CAPP\\S1\\S1Ex3 - UnDisque\\S1Ex3 - UnDisque\\Module1.vb*",
+              "RelativeToolTip": "S1Ex3 - UnDisque\\Module1.vb*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-11-05T13:56:50.117Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

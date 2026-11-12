@@ -1,0 +1,11 @@
+J:\[ESIG]\[ESIG] [1]\ESIG-1-CAPP\S1\S1Ex3 - UnDisque\S1Ex3 - UnDisque\bin\Debug\S1Ex3 - UnDisque.exe.config
+J:\[ESIG]\[ESIG] [1]\ESIG-1-CAPP\S1\S1Ex3 - UnDisque\S1Ex3 - UnDisque\bin\Debug\S1Ex3 - UnDisque.exe
+J:\[ESIG]\[ESIG] [1]\ESIG-1-CAPP\S1\S1Ex3 - UnDisque\S1Ex3 - UnDisque\bin\Debug\S1Ex3 - UnDisque.pdb
+J:\[ESIG]\[ESIG] [1]\ESIG-1-CAPP\S1\S1Ex3 - UnDisque\S1Ex3 - UnDisque\bin\Debug\S1Ex3 - UnDisque.xml
+J:\[ESIG]\[ESIG] [1]\ESIG-1-CAPP\S1\S1Ex3 - UnDisque\S1Ex3 - UnDisque\obj\Debug\S1Ex3 - UnDisque.vbproj.AssemblyReference.cache
+J:\[ESIG]\[ESIG] [1]\ESIG-1-CAPP\S1\S1Ex3 - UnDisque\S1Ex3 - UnDisque\obj\Debug\S1Ex3___UnDisque.Resources.resources
+J:\[ESIG]\[ESIG] [1]\ESIG-1-CAPP\S1\S1Ex3 - UnDisque\S1Ex3 - UnDisque\obj\Debug\S1Ex3 - UnDisque.vbproj.GenerateResource.cache
+J:\[ESIG]\[ESIG] [1]\ESIG-1-CAPP\S1\S1Ex3 - UnDisque\S1Ex3 - UnDisque\obj\Debug\S1Ex3 - UnDisque.vbproj.CoreCompileInputs.cache
+J:\[ESIG]\[ESIG] [1]\ESIG-1-CAPP\S1\S1Ex3 - UnDisque\S1Ex3 - UnDisque\obj\Debug\S1Ex3 - UnDisque.exe
+J:\[ESIG]\[ESIG] [1]\ESIG-1-CAPP\S1\S1Ex3 - UnDisque\S1Ex3 - UnDisque\obj\Debug\S1Ex3 - UnDisque.xml
+J:\[ESIG]\[ESIG] [1]\ESIG-1-CAPP\S1\S1Ex3 - UnDisque\S1Ex3 - UnDisque\obj\Debug\S1Ex3 - UnDisque.pdb

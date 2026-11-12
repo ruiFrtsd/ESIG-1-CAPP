@@ -1,0 +1,11 @@
+J:\[ESIG]\[ESIG] [1]\ESIG-1-CAPP\S1\S1Ex4 - UnDisqueAvecFonctions\S1Ex4 - UnDisqueAvecFonctions\bin\Debug\S1Ex4 - UnDisqueAvecFonctions.exe.config
+J:\[ESIG]\[ESIG] [1]\ESIG-1-CAPP\S1\S1Ex4 - UnDisqueAvecFonctions\S1Ex4 - UnDisqueAvecFonctions\bin\Debug\S1Ex4 - UnDisqueAvecFonctions.exe
+J:\[ESIG]\[ESIG] [1]\ESIG-1-CAPP\S1\S1Ex4 - UnDisqueAvecFonctions\S1Ex4 - UnDisqueAvecFonctions\bin\Debug\S1Ex4 - UnDisqueAvecFonctions.pdb
+J:\[ESIG]\[ESIG] [1]\ESIG-1-CAPP\S1\S1Ex4 - UnDisqueAvecFonctions\S1Ex4 - UnDisqueAvecFonctions\bin\Debug\S1Ex4 - UnDisqueAvecFonctions.xml
+J:\[ESIG]\[ESIG] [1]\ESIG-1-CAPP\S1\S1Ex4 - UnDisqueAvecFonctions\S1Ex4 - UnDisqueAvecFonctions\obj\Debug\S1Ex4 - UnDisqueAvecFonctions.vbproj.AssemblyReference.cache
+J:\[ESIG]\[ESIG] [1]\ESIG-1-CAPP\S1\S1Ex4 - UnDisqueAvecFonctions\S1Ex4 - UnDisqueAvecFonctions\obj\Debug\S1Ex4___UnDisqueAvecFonctions.Resources.resources
+J:\[ESIG]\[ESIG] [1]\ESIG-1-CAPP\S1\S1Ex4 - UnDisqueAvecFonctions\S1Ex4 - UnDisqueAvecFonctions\obj\Debug\S1Ex4 - UnDisqueAvecFonctions.vbproj.GenerateResource.cache
+J:\[ESIG]\[ESIG] [1]\ESIG-1-CAPP\S1\S1Ex4 - UnDisqueAvecFonctions\S1Ex4 - UnDisqueAvecFonctions\obj\Debug\S1Ex4 - UnDisqueAvecFonctions.vbproj.CoreCompileInputs.cache
+J:\[ESIG]\[ESIG] [1]\ESIG-1-CAPP\S1\S1Ex4 - UnDisqueAvecFonctions\S1Ex4 - UnDisqueAvecFonctions\obj\Debug\S1Ex4 - UnDisqueAvecFonctions.exe
+J:\[ESIG]\[ESIG] [1]\ESIG-1-CAPP\S1\S1Ex4 - UnDisqueAvecFonctions\S1Ex4 - UnDisqueAvecFonctions\obj\Debug\S1Ex4 - UnDisqueAvecFonctions.xml
+J:\[ESIG]\[ESIG] [1]\ESIG-1-CAPP\S1\S1Ex4 - UnDisqueAvecFonctions\S1Ex4 - UnDisqueAvecFonctions\obj\Debug\S1Ex4 - UnDisqueAvecFonctions.pdb
