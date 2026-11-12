@@ -4,9 +4,6 @@
         Dim nombreADeviner = New Random().Next(1, 101)
         Dim nombreUser = 0
         Dim nbEssais = 0
-        Console.WriteLine(nombreADeviner)
-        Console.WriteLine()
-        Console.WriteLine()
         While nombreUser <> nombreADeviner
             Console.Write("Entrez votre nb : ")
             nbEssais += 1
