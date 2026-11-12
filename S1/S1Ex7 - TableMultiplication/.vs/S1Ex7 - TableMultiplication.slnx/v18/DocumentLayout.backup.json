@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "J:\\[ESIG]\\[ESIG] [1]\\ESIG-1-CAPP\\S1\\S1Ex7 - TableMultiplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BECC061C-D1C5-47F8-B0ED-7B865210D2F9}|S1Ex7 - TableMultiplication\\S1Ex7 - TableMultiplication.vbproj|j:\\[esig]\\[esig] [1]\\esig-1-capp\\s1\\s1ex7 - tablemultiplication\\s1ex7 - tablemultiplication\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{BECC061C-D1C5-47F8-B0ED-7B865210D2F9}|S1Ex7 - TableMultiplication\\S1Ex7 - TableMultiplication.vbproj|solutionrelative:s1ex7 - tablemultiplication\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "J:\\[ESIG]\\[ESIG] [1]\\ESIG-1-CAPP\\S1\\S1Ex7 - TableMultiplication\\S1Ex7 - TableMultiplication\\Module1.vb",
+              "RelativeDocumentMoniker": "S1Ex7 - TableMultiplication\\Module1.vb",
+              "ToolTip": "J:\\[ESIG]\\[ESIG] [1]\\ESIG-1-CAPP\\S1\\S1Ex7 - TableMultiplication\\S1Ex7 - TableMultiplication\\Module1.vb",
+              "RelativeToolTip": "S1Ex7 - TableMultiplication\\Module1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-11-12T12:33:47.901Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+J:\[ESIG]\[ESIG] [1]\ESIG-1-CAPP\S1\S1Ex8 - JeuDevinerNombre\S1Ex8 - JeuDevinerNombre\bin\Debug\S1Ex8 - JeuDevinerNombre.exe.config
+J:\[ESIG]\[ESIG] [1]\ESIG-1-CAPP\S1\S1Ex8 - JeuDevinerNombre\S1Ex8 - JeuDevinerNombre\bin\Debug\S1Ex8 - JeuDevinerNombre.exe
+J:\[ESIG]\[ESIG] [1]\ESIG-1-CAPP\S1\S1Ex8 - JeuDevinerNombre\S1Ex8 - JeuDevinerNombre\bin\Debug\S1Ex8 - JeuDevinerNombre.pdb
+J:\[ESIG]\[ESIG] [1]\ESIG-1-CAPP\S1\S1Ex8 - JeuDevinerNombre\S1Ex8 - JeuDevinerNombre\bin\Debug\S1Ex8 - JeuDevinerNombre.xml
+J:\[ESIG]\[ESIG] [1]\ESIG-1-CAPP\S1\S1Ex8 - JeuDevinerNombre\S1Ex8 - JeuDevinerNombre\obj\Debug\S1Ex8 - JeuDevinerNombre.vbproj.AssemblyReference.cache
+J:\[ESIG]\[ESIG] [1]\ESIG-1-CAPP\S1\S1Ex8 - JeuDevinerNombre\S1Ex8 - JeuDevinerNombre\obj\Debug\S1Ex8___JeuDevinerNombre.Resources.resources
+J:\[ESIG]\[ESIG] [1]\ESIG-1-CAPP\S1\S1Ex8 - JeuDevinerNombre\S1Ex8 - JeuDevinerNombre\obj\Debug\S1Ex8 - JeuDevinerNombre.vbproj.GenerateResource.cache
+J:\[ESIG]\[ESIG] [1]\ESIG-1-CAPP\S1\S1Ex8 - JeuDevinerNombre\S1Ex8 - JeuDevinerNombre\obj\Debug\S1Ex8 - JeuDevinerNombre.vbproj.CoreCompileInputs.cache
+J:\[ESIG]\[ESIG] [1]\ESIG-1-CAPP\S1\S1Ex8 - JeuDevinerNombre\S1Ex8 - JeuDevinerNombre\obj\Debug\S1Ex8 - JeuDevinerNombre.exe
+J:\[ESIG]\[ESIG] [1]\ESIG-1-CAPP\S1\S1Ex8 - JeuDevinerNombre\S1Ex8 - JeuDevinerNombre\obj\Debug\S1Ex8 - JeuDevinerNombre.xml
+J:\[ESIG]\[ESIG] [1]\ESIG-1-CAPP\S1\S1Ex8 - JeuDevinerNombre\S1Ex8 - JeuDevinerNombre\obj\Debug\S1Ex8 - JeuDevinerNombre.pdb
