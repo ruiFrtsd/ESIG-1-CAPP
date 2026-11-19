@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "J:\\[ESIG]\\[ESIG] [1]\\ESIG-1-CAPP\\S2\\informationsPersonne\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2000D7E1-904D-4DE2-B8C7-8F8D885FE6E1}|informationsPersonne\\informationsPersonne.vbproj|J:\\[ESIG]\\[ESIG] [1]\\ESIG-1-CAPP\\S2\\informationsPersonne\\informationspersonne\\mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2000D7E1-904D-4DE2-B8C7-8F8D885FE6E1}|informationsPersonne\\informationsPersonne.vbproj|solutionrelative:informationspersonne\\mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2000D7E1-904D-4DE2-B8C7-8F8D885FE6E1}|informationsPersonne\\informationsPersonne.vbproj|j:\\[esig]\\[esig] [1]\\esig-1-capp\\s2\\informationspersonne\\informationspersonne\\mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2000D7E1-904D-4DE2-B8C7-8F8D885FE6E1}|informationsPersonne\\informationsPersonne.vbproj|solutionrelative:informationspersonne\\mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mainForm.vb",
+              "DocumentMoniker": "J:\\[ESIG]\\[ESIG] [1]\\ESIG-1-CAPP\\S2\\informationsPersonne\\informationsPersonne\\mainForm.vb",
+              "RelativeDocumentMoniker": "informationsPersonne\\mainForm.vb",
+              "ToolTip": "J:\\[ESIG]\\[ESIG] [1]\\ESIG-1-CAPP\\S2\\informationsPersonne\\informationsPersonne\\mainForm.vb",
+              "RelativeToolTip": "informationsPersonne\\mainForm.vb",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwC4AAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-11-19T13:07:55.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mainForm.vb [Design]",
+              "DocumentMoniker": "J:\\[ESIG]\\[ESIG] [1]\\ESIG-1-CAPP\\S2\\informationsPersonne\\informationsPersonne\\mainForm.vb",
+              "RelativeDocumentMoniker": "informationsPersonne\\mainForm.vb",
+              "ToolTip": "J:\\[ESIG]\\[ESIG] [1]\\ESIG-1-CAPP\\S2\\informationsPersonne\\informationsPersonne\\mainForm.vb [Design]",
+              "RelativeToolTip": "informationsPersonne\\mainForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-11-19T13:00:23.756Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
