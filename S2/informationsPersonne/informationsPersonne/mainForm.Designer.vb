@@ -1,9 +1,9 @@
-﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
+﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>
 Partial Class mainForm
     Inherits System.Windows.Forms.Form
 
     'Form remplace la méthode Dispose pour nettoyer la liste des composants.
-    <System.Diagnostics.DebuggerNonUserCode()> _
+    <System.Diagnostics.DebuggerNonUserCode()>
     Protected Overrides Sub Dispose(ByVal disposing As Boolean)
         Try
             If disposing AndAlso components IsNot Nothing Then
@@ -20,7 +20,7 @@ Partial Class mainForm
     'REMARQUE : la procédure suivante est requise par le Concepteur Windows Form
     'Elle peut être modifiée à l'aide du Concepteur Windows Form.  
     'Ne la modifiez pas à l'aide de l'éditeur de code.
-    <System.Diagnostics.DebuggerStepThrough()> _
+    <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
         Me.lblNom = New System.Windows.Forms.Label()
         Me.txtNom = New System.Windows.Forms.TextBox()
@@ -63,6 +63,7 @@ Partial Class mainForm
         '
         'cbmOrigine
         '
+        Me.cbmOrigine.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
         Me.cbmOrigine.FormattingEnabled = True
         Me.cbmOrigine.Location = New System.Drawing.Point(237, 183)
         Me.cbmOrigine.Name = "cbmOrigine"
@@ -99,9 +100,9 @@ Partial Class mainForm
         Me.lblDateDeNaissance.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.lblDateDeNaissance.Location = New System.Drawing.Point(23, 141)
         Me.lblDateDeNaissance.Name = "lblDateDeNaissance"
-        Me.lblDateDeNaissance.Size = New System.Drawing.Size(194, 20)
+        Me.lblDateDeNaissance.Size = New System.Drawing.Size(207, 20)
         Me.lblDateDeNaissance.TabIndex = 6
-        Me.lblDateDeNaissance.Text = "Votre date de naissance : "
+        Me.lblDateDeNaissance.Text = "Votre année de naissance : "
         '
         'lblOrigine
         '

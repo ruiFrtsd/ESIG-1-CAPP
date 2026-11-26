@@ -2,7 +2,7 @@
 
 Public Class mainForm
     Private Sub mainForm_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-        'btnEnvoyer.Enabled = False
+        btnEnvoyer.Enabled = False
         btnReset.Enabled = False
 
         cbmOrigine.Items.Add("Américaine")
@@ -17,7 +17,7 @@ Public Class mainForm
         txtDateDeNaissance.Text = ""
         txtNom.Text = ""
         txtPrenom.Text = ""
-        cbmOrigine.SelectedItem = ""
+        cbmOrigine.SelectedIndex = -1
     End Sub
 
     Private Sub txtNom_TextChanged(sender As Object, e As EventArgs) Handles txtNom.TextChanged
@@ -44,12 +44,23 @@ Public Class mainForm
     End Sub
 
     Private Sub gererActivationControles()
-        If txtDateDeNaissance.Text <> "" And txtPrenom.Text <> "" And txtNom.Text <> "" And CStr(cbmOrigine.SelectedValue) <> "" Then
-            btnReset.Enabled = False
-        Else
-            btnReset.Enabled = True
-        End If
+        Dim btnAActiver As Boolean = txtNom.Text.Trim() <> "" OrElse txtPrenom.Text.Trim() <>
+            "" OrElse txtDateDeNaissance.Text.Trim() <> "" OrElse cbmOrigine.SelectedIndex <> -1
+
+        btnReset.Enabled = btnAActiver
+
+        Dim btnEnvoyerActiver As Boolean = txtNom.Text.Trim() <> "" AndAlso txtPrenom.Text.Trim() <>
+            "" AndAlso txtDateDeNaissance.Text.Trim() <> "" AndAlso cbmOrigine.SelectedIndex <> -1 AndAlso gererAnneeNaissanceValide()
+        btnEnvoyer.Enabled = btnEnvoyerActiver
+
     End Sub
 
+    Private Function gererAnneeNaissanceValide() As Boolean
+        If Integer.TryParse(txtDateDeNaissance.Text, New Integer()) AndAlso (Year(Now) - CInt(txtDateDeNaissance.Text) < 150 And Year(Now) - CInt(txtDateDeNaissance.Text) > 0) Then
+            Return True
+        Else
+            Return False
+        End If
+    End Function
 
 End Class
